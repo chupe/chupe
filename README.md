@@ -1,13 +1,11 @@
 Hi, my name is Adnan.
 
-I am a perfectionist by nature.
-
 I enjoy using open source technologies.
 
 I am privacy aware and support privacy respecting services.
 
-At the moment I am mastering Go.
-
-I am looking to master systems programming.
+At the moment I am learning DSA stuff.
 
 Currently working as an Asp.Net backend developer.
+
+I am looking to switch to systems programming.
